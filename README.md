@@ -1,6 +1,6 @@
 # bigint
 C++ arbitrary precision integer project (>64 bits per value)
-This program is duplicated on my website http://www.intricate-simplicity.com
+This program is duplicated on my website http://www.intricate-simplicity.com.
 
 I wanted to write routines that would handle arbitrarily-size integers. There are certainly enough of those floating around on the Internet but I wanted to solve the various problems involved independently.
  
